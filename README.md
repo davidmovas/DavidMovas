@@ -1,8 +1,8 @@
-![👋 Hi, my name is David and I am Golang Developer](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+![](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 ![Profile views](https://komarev.com/ghpvc/?username=DavidMovas&label=Profile%20views&color=0e75b6&style=flat)
 
-# David Movas
+# David Movsesian
 
 **Backend Engineer** — Go, Microservices, gRPC, Docker
 
@@ -26,11 +26,26 @@
 
 ### Tech Stack
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,rust,ts,postgres,redis,mongodb,docker,kubernetes,aws,git,linux,nextjs,react" alt="Tech Stack" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TimescaleDB-FDB515?style=for-the-badge&logo=timescale&logoColor=black" alt="TimescaleDB" />
+  <img src="https://img.shields.io/badge/Dragonfly-6C63FF?style=for-the-badge&logoColor=white" alt="Dragonfly" />
+  <img src="https://img.shields.io/badge/Meilisearch-FF5CAA?style=for-the-badge&logo=meilisearch&logoColor=white" alt="Meilisearch" />
+  <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=google&logoColor=white" alt="gRPC" />
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="S3" />
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+</p>
+
 **Languages:** Go (primary) · Rust · TypeScript  
 **Backend:** Microservices · gRPC · REST · WebSockets  
 **Frontend:** React · Next.js  
-**Data:** PostgreSQL · MongoDB · Redis  
-**Infrastructure:** Docker · Kubernetes · CI/CD · Terraform  
+**Data:** PostgreSQL · TimescaleDB · MongoDB · Redis · Dragonfly · Meilisearch  
+**Infrastructure:** Docker · Kubernetes · AWS S3 · CI/CD · Terraform  
 **Other:** Stripe Integration · JWT/Auth · AI API Integration
 
 ---
@@ -45,9 +60,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/david-movsesian-57b166256/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
   </a>
   <a href="https://github.com/DavidMovas" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" />
   </a>
 </p>

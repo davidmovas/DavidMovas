@@ -14,7 +14,7 @@
 
 🔹 **[Archond](https://github.com/archondx/archond)** — SaaS platform for SEO professionals. AI-powered keyword clustering, multi-CMS integration, Stripe billing with subscriptions & RBAC. *Go · NextJS · Rust · Docker · PostgreSQL*
 
-🔹 **SEO Desktop Tool** — Desktop application for remote WordPress management. AI-assisted content generation, automated publishing, Tor/proxy anonymity, encrypted local storage. *Go (Wails) · NextJS · REST API*
+🔹 **[Postulator](https://github.com/davidmovas/postulator-overview)** — Desktop application for remote WordPress management. AI-assisted content generation, automated publishing, Tor/proxy anonymity, encrypted local storage. *Go (Wails) · NextJS · REST API*
 
 🔹 **[ApiQube](https://github.com/apiqube/cli)** — CLI tool for automated API testing via YAML manifests. Define endpoints, chain requests, run full test suites from terminal. 2 releases published. *Go · YAML · CI/CD*
 

@@ -18,7 +18,7 @@
 
 🔹 **[ApiQube](https://github.com/davidmovas/apiqube)** — CLI tool for automated API testing via YAML manifests. Define endpoints, chain requests, run full test suites from terminal. 2 releases published. *Go · YAML · CI/CD*
 
-🔹 **[QuizWars](https://github.com/QuizWars-Ecosystem)** — Multiplayer game platform built as a microservice ecosystem. Player matchmaking (100k+ concurrent), gRPC service mesh, API gateway, load testing suite. *Go · gRPC · Docker · PostgreSQL*
+🔹 **[QuizWars](https://github.com/davidmovas/quizwars)** — Multiplayer game platform built as a microservice ecosystem. Player matchmaking (100k+ concurrent), gRPC service mesh, API gateway, load testing suite. *Go · gRPC · Docker · PostgreSQL*
 
 🔹 **Auto Marketplace** — Car import marketplace with advanced filtering, cost calculators, multi-language support, and admin panel. *Go · NextJS · PostgreSQL*
 

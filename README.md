@@ -16,7 +16,7 @@
 
 🔹 **[Postulator](https://github.com/davidmovas/postulator-overview)** — Desktop application for remote WordPress management. AI-assisted content generation, automated publishing, Tor/proxy anonymity, encrypted local storage. *Go (Wails) · NextJS · REST API*
 
-🔹 **[ApiQube](https://github.com/apiqube/cli)** — CLI tool for automated API testing via YAML manifests. Define endpoints, chain requests, run full test suites from terminal. 2 releases published. *Go · YAML · CI/CD*
+🔹 **[ApiQube](https://github.com/davidmovas/apiqube)** — CLI tool for automated API testing via YAML manifests. Define endpoints, chain requests, run full test suites from terminal. 2 releases published. *Go · YAML · CI/CD*
 
 🔹 **[QuizWars](https://github.com/QuizWars-Ecosystem)** — Multiplayer game platform built as a microservice ecosystem. Player matchmaking (100k+ concurrent), gRPC service mesh, API gateway, load testing suite. *Go · gRPC · Docker · PostgreSQL*
 

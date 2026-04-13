@@ -20,7 +20,7 @@
 
 🔹 **[QuizWars](https://github.com/davidmovas/quizwars)** — Multiplayer game platform built as a microservice ecosystem. Player matchmaking (100k+ concurrent), gRPC service mesh, API gateway, load testing suite. *Go · gRPC · Docker · PostgreSQL*
 
-🔹 **Auto Marketplace** — Car import marketplace with advanced filtering, cost calculators, multi-language support, and admin panel. *Go · NextJS · PostgreSQL*
+🔹 **[Araxes](https://github.com/davidmovas/arexes)** — Car import marketplace with advanced filtering, cost calculators, multi-language support, and admin panel. *Go · NextJS · PostgreSQL*
 
 ---
 
